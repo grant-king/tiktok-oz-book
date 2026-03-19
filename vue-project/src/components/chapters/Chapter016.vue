@@ -1,0 +1,176 @@
+<template>
+    <div class="text-center text-4xl font-black font-serif">
+        XVI
+    </div>
+    <div v-if="show_subtext" class="text-center text-2xl font-bold font-serif">
+        <div class="h-4"></div>
+        The Naughty Nome
+    </div>
+    <div class="h-16"></div>
+    <div>
+Shaggy Man had said nothing during the conversation between Queen Ann and Quox, for the simple reason that he did not consider the matter worth an argument. Safe within his pocket reposed the Love Magnet, which had never failed to win every heart. The nomes, he knew, were not like the heartless Roses and therefore could be won to his side as soon as he exhibited the magic talisman.
+</div>
+<div>
+Shaggy's chief anxiety had been to reach Ruggedo's Kingdom and now that the entrance lay before him he was confident he would be able to rescue his lost brother. Let Ann and the dragon quarrel as to who should conquer the nomes, if they liked; Shaggy would let them try, and if they failed he had the means of conquest in his own pocket.
+</div>
+<div>
+But Ann was positive she could not fail, for she thought her Army could do anything. So she called the officers together and told them how to act, and she also instructed Tik-Tok what to do and what to say.
+</div>
+<div>
+"Please do not shoot your gun except as a last resort," she added, "for I do not wish to be cruel or to shed any blood—unless it is absolutely necessary."
+</div>
+<div>
+"All right," replied Tik-Tok; "but I do not think Rug-ge-do would bleed if I filled him full of holes and put him in a ci-der press."
+</div>
+<div>
+Then the officers fell in line, the four Generals abreast and then the four Colonels and the four Majors and the four Captains. They drew their glittering swords and commanded Tik-Tok to march, which he did. Twice he fell down, being tripped by the rough rocks, but when he struck the smooth path he got along better. Into the gloomy mouth of the cavern entrance he stepped without hesitation, and after him proudly pranced the officers and Queen Ann. The others held back a little, waiting to see what would happen.
+</div>
+<div>
+Of course the Nome King knew they were coming and was prepared to receive them. Just within the rocky passage that led to the jeweled throne-room was a deep pit, which was usually covered. Ruggedo had ordered the cover removed and it now stood open, scarcely visible in the gloom.
+</div>
+<div>
+The pit was so large around that it nearly filled the passage and there was barely room for one to walk around it by pressing close to the rock walls. This Tik-Tok did, for his copper eyes saw the pit clearly and he avoided it; but the officers marched straight into the hole and tumbled in a heap on the bottom. An instant later Queen Ann also walked into the pit, for she had her chin in the air and was careless where she placed her feet. Then one of the nomes pulled a lever which replaced the cover on the pit and made the officers of Oogaboo and their Queen fast prisoners.
+</div>
+<div>
+As for Tik-Tok, he kept straight on to the cavern where Ruggedo sat in his throne and there he faced the Nome King and said:
+</div>
+<div>
+"I here-by con-quer you in the name of Queen Ann So-forth of Oo-ga-boo, whose Ar-my I am, and I de-clare that you are her pris-on-er!"
+</div>
+<div>
+Ruggedo laughed at him.
+</div>
+<div>
+"Where is this famous Queen?" he asked.
+</div>
+<div>
+"She'll be here in a min-ute," said Tik-Tok. "Per-haps she stopped to tie her shoe-string."
+</div>
+<div>
+"Now, see here, Tik-Tok," began the Nome King, in a stern voice, "I've had enough of this nonsense. Your Queen and her officers are all prisoners, having fallen into my power, so perhaps you'll tell me what you mean to do."
+</div>
+<div>
+"My or-ders were to con-quer you," replied Tik-Tok, "and my ma-chin-er-y has done the best it knows how to car-ry out those or-ders."
+</div>
+<div>
+Ruggedo pounded on his gong and Kaliko appeared, followed closely by General Guph.
+</div>
+<div>
+"Take this copper man into the shops and set him to work hammering gold," commanded the King. "Being run by machinery he ought to be a steady worker. He ought never to have been made, but since he exists I shall hereafter put him to good use."
+</div>
+<div>
+"If you try to cap-ture me," said Tik-Tok, "I shall fight."
+</div>
+<div>
+"Don't do that!" exclaimed General Guph, earnestly, "for it will be useless to resist and you might hurt some one."
+</div>
+<div>
+But Tik-Tok raised his gun and took aim and not knowing what damage the gun might do the nomes were afraid to face it.
+</div>
+<div>
+While he was thus defying the Nome King and his high officials, Betsy Bobbin rode calmly into the royal cavern, seated upon the back of Hank the mule. The little girl had grown tired of waiting for "something to happen" and so had come to see if Ruggedo had been conquered.
+</div>
+<div>
+"Nails and nuggets!" roared the King; "how dare you bring that beast here and enter my presence unannounced?"
+</div>
+<div>
+"There wasn't anybody to announce me," replied Betsy. "I guess your folks were all busy. Are you conquered yet?"
+</div>
+<div>
+"No!" shouted the King, almost beside himself with rage.
+</div>
+<div>
+"Then please give me something to eat, for I'm awful hungry," said the girl. "You see, this conquering business is a good deal like waiting for a circus parade; it takes a long time to get around and don't amount to much anyhow."
+</div>
+<div>
+The nomes were so much astonished at this speech that for a time they could only glare at her silently, not finding words to reply. The King finally recovered the use of his tongue and said:
+</div>
+<div>
+"Earth-crawler! this insolence to my majesty shall be your death-warrant. You are an ordinary mortal, and to stop a mortal from living is so easy a thing to do that I will not keep you waiting half so long as you did for my conquest."
+</div>
+<div>
+"I'd rather you wouldn't stop me from living," remarked Betsy, getting off Hank's back and standing beside him. "And it would be a pretty cheap King who killed a visitor while she was hungry. If you'll give me something to eat, I'll talk this killing business over with you afterward; only, I warn you now that I don't approve of it, and never will."
+</div>
+<div>
+Her coolness and lack of fear impressed the Nome King, although he bore an intense hatred toward all mortals.
+</div>
+<div>
+"What do you wish to eat?" he asked gruffly.
+</div>
+<div>
+"Oh, a ham-sandwich would do, or perhaps a couple of hard-boiled eggs—"
+</div>
+<div>
+"Eggs!" shrieked the three nomes who were present, shuddering till their teeth chattered.
+</div>
+<div>
+"What's the matter?" asked Betsy wonderingly. "Are eggs as high here as they are at home?"
+</div>
+<div>
+"Guph," said the King in an agitated voice, turning to his General, "let us destroy this rash mortal at once! Seize her and take her to the Slimy Cave and lock her in."
+</div>
+<div>
+Guph glanced at Tik-Tok, whose gun was still pointed, but just then Kaliko stole softly behind the copper man and kicked his knee-joints so that they suddenly bent forward and tumbled Tik-Tok to the floor, his gun falling from his grasp.
+</div>
+<div>
+Then Guph, seeing Tik-Tok helpless, made a grab at Betsy. At the same time Hank's heels shot out and caught the General just where his belt was buckled. He rose into the air swift as a cannon-ball, struck the Nome King fairly and flattened his Majesty against the wall of rock on the opposite side of the cavern. Together they fell to the floor in a dazed and crumpled condition, seeing which Kaliko whispered to Betsy:
+</div>
+<div>
+"Come with me—quick!—and I will save you."
+</div>
+<div>
+She looked into Kaliko's face inquiringly and thought he seemed honest and good-natured, so she decided to follow him. He led her and the mule through several passages and into a small cavern very nicely and comfortably furnished.
+</div>
+<div>
+"This is my own room," said he, "but you are quite welcome to use it. Wait here a minute and I'll get you something to eat."
+</div>
+<div>
+When Kaliko returned he brought a tray containing some broiled mushrooms, a loaf of mineral bread and some petroleum-butter. The butter Betsy could not eat, but the bread was good and the mushrooms delicious.
+</div>
+<div>
+"Here's the door key," said Kaliko, "and you'd better lock yourself in."
+</div>
+<div>
+"Won't you let Polychrome and the Rose Princess come here, too?" she asked.
+</div>
+<div>
+"I'll see. Where are they?"
+</div>
+<div>
+"I don't know. I left them outside," said Betsy.
+</div>
+<div>
+"Well, if you hear three raps on the door, open it," said Kaliko; "but don't let anyone in unless they give the three raps."
+</div>
+<div>
+"All right," promised Betsy, and when Kaliko left the cosy cavern she closed and locked the door.
+</div>
+<div>
+In the meantime Ann and her officers, finding themselves prisoners in the pit, had shouted and screamed until they were tired out, but no one had come to their assistance. It was very dark and damp in the pit and they could not climb out because the walls were higher than their heads and the cover was on. The Queen was first angry and then annoyed and then discouraged; but the officers were only afraid. Every one of the poor fellows heartily wished he was back in Oogaboo caring for his orchard, and some were so unhappy that they began to reproach Ann for causing them all this trouble and danger.
+</div>
+<div>
+Finally the Queen sat down on the bottom of the pit and leaned her back against the wall. By good luck her sharp elbow touched a secret spring in the wall and a big flat rock swung inward. Ann fell over backward, but the next instant she jumped up and cried to the others:
+</div>
+<div>
+"A passage! A passage! Follow me, my brave men, and we may yet escape."
+</div>
+<div>
+Then she began to crawl through the passage, which was as dark and dank as the pit, and the officers followed her in single file. They crawled, and they crawled, and they kept on crawling, for the passage was not big enough to allow them to stand upright. It turned this way and twisted that, sometimes like a corkscrew and sometimes zigzag, but seldom ran for long in a straight line.
+</div>
+<div>
+"It will never end—never!" moaned the officers, who were rubbing all the skin off their knees on the rough rocks.
+</div>
+<div>
+"It must end," retorted Ann courageously, "or it never would have been made. We don't know where it will lead us to, but any place is better than that loathsome pit."
+</div>
+<div>
+So she crawled on, and the officers crawled on, and while they were crawling through this awful underground passage Polychrome and Shaggy and Files and the Rose Princess, who were standing outside the entrance to Ruggedo's domains, were wondering what had become of them.
+</div>
+
+</template>
+
+<script setup>
+
+const show_subtext = true
+
+</script>
